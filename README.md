@@ -1,2 +1,2 @@
 # 2D_Heat
-This code solves 2D Heat eqautions to get the temprature distribution. 
+This code solves 2D Heat equtions to get the temprature distribution. 
